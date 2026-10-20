@@ -1,0 +1,189 @@
+id	bag	section	pdf_page	stage	question
+b1-001	1	Self-coaching	2	GOAL	What would you like to work on?
+b1-002	1	Self-coaching	2	GOAL	What would you like to take away from this reflection?
+b1-003	1	Self-coaching	2	GOAL	What is your goal in this situation?
+b1-004	1	Self-coaching	2	GOAL	When would you like to achieve it?
+b1-005	1	Self-coaching	2	GOAL	What benefits would reaching this goal bring you?
+b1-006	1	Self-coaching	2	GOAL	Who else would benefit, and how?
+b1-007	1	Self-coaching	2	GOAL	What would the situation look like if you reached your goal?
+b1-008	1	Self-coaching	2	GOAL	What would you see, hear, or feel then?
+b1-009	1	Self-coaching	2	REALITY	What have you already tried?
+b1-010	1	Self-coaching	2	REALITY	What is helping you move toward your goal?
+b1-011	1	Self-coaching	2	REALITY	What is getting in the way?
+b1-012	1	Self-coaching	2	PERSPECTIVE	What different paths toward your goal are available?
+b1-013	1	Self-coaching	2	PERSPECTIVE	What else could you try?
+b1-014	1	Self-coaching	2	PERSPECTIVE	What are the main advantages and disadvantages of each possibility?
+b1-015	1	Self-coaching	2	ACTION	Which possibilities would you like to put into practice?
+b1-016	1	Self-coaching	2	ACTION	When would you begin each action?
+b1-017	1	Self-coaching	2	ACTION	What could other people do to support you, and when would you ask them?
+b1-018	1	Self-coaching	2	ACTION	On a scale from 1 to 10, how committed do you feel to taking these actions?
+b1-019	1	Self-coaching	2	ACTION	If your commitment is below 10, what would bring it closer to 10?
+b1-020	1	Self-coaching	2	ACTION	What, if anything, are you willing to commit to? Doing nothing for now and returning later is also an option.
+b4-001	4	Best ten: 1	3	PERSPECTIVE	If you were considering this on your own, without a coach, what would you do?
+b4-002	4	Best ten: 2 and its alternative	4	PERSPECTIVE	If you knew the answer, what might it be?
+b4-003	4	Best ten: 2 and its alternative	4	PERSPECTIVE	If your response is "I don't know": what if you did know?
+b4-004	4	Best ten: 3-8	4	PERSPECTIVE	What might you consider if there were no constraints?
+b4-005	4	Best ten: 3-8	4	PERSPECTIVE	What advice would you give a friend in your position?
+b4-006	4	Best ten: 3-8	4	PERSPECTIVE	Imagine speaking with the wisest person you know or can imagine. What might they advise?
+b4-007	4	Best ten: 3-8	4	PERSPECTIVE	What else comes to mind?
+b4-008	4	Best ten: 3-8	4	PERSPECTIVE	What else could you explore?
+b4-009	4	Best ten: 3-8	4	PERSPECTIVE	If you are unsure what to do now, where might you go from here?
+b4-010	4	Best ten: 9	4	REALITY	What is the underlying issue?
+b4-011	4	Best ten: 10	4	ACTION	On a scale from 1 to 10, how committed are you to doing this? What could bring that commitment to 10?
+b5-001	5	GROW: Goal / conversation	4	GOAL	What would you like to achieve in this reflection?
+b5-002	5	GROW: Goal / conversation	4	GOAL	What is your goal for this conversation with yourself?
+b5-003	5	GROW: Goal / conversation	4	GOAL	If you have more than one goal, which would you like to focus on first?
+b5-004	5	GROW: Goal / conversation	4	GOAL	What would make this time worthwhile for you?
+b5-005	5	GROW: Goal / conversation	4	GOAL	What outcome from this reflection would be most useful to you?
+b5-006	5	GROW: Goal / conversation	4	GOAL	If you set aside half an hour, what would you like to reach in that time?
+b5-007	5	GROW: Goal / conversation	4	GOAL	If you had a magic wand, where would you like to be by the end of this reflection?
+b5-008	5	GROW: Goal / situation	4	GOAL	What is your dream?
+b5-009	5	GROW: Goal / situation	4	GOAL	What would an ideal situation look like to you?
+b5-010	5	GROW: Goal / situation	5	GOAL	What would that ideal situation be like?
+b5-011	5	GROW: Goal / situation	5	GOAL	What would you be saying to yourself?
+b5-012	5	GROW: Goal / situation	5	GOAL	What would that allow you to do?
+b5-013	5	GROW: Goal / situation	5	GOAL	What would other people say to you?
+b5-014	5	GROW: Goal / situation	5	GOAL	What would you have that you do not have now?
+b5-015	5	GROW: Goal / situation	5	GOAL	Imagine three months have passed, the obstacles are gone, and you have reached your goal. What do you see, hear, or feel?
+b5-016	5	GROW: Goal / situation	5	GOAL	In that three-month picture, what does the situation look like?
+b5-017	5	GROW: Goal / situation	5	GOAL	In that three-month picture, what are people saying to you?
+b5-018	5	GROW: Goal / situation	5	GOAL	In that three-month picture, how does it feel?
+b5-019	5	GROW: Goal / situation	5	GOAL	In that three-month picture, what new elements have appeared?
+b5-020	5	GROW: Goal / situation	5	GOAL	In that three-month picture, what has changed?
+b5-021	5	GROW: Goal / situation	5	GOAL	What goal inspires you?
+b5-022	5	GROW: Goal / situation	5	GOAL	What result are you aiming for?
+b5-023	5	GROW: Goal / situation	5	GOAL	What would that bring you personally?
+b5-024	5	GROW: Goal / situation	5	GOAL	Where might you need to stretch yourself to reach your goal?
+b5-025	5	GROW: Goal / situation	5	GOAL	What is your time frame?
+b5-026	5	GROW: Goal / situation	5	GOAL	What milestones do you see, and what is the time frame for each?
+b5-027	5	GROW: Goal / situation	5	GOAL	How could you break this goal into smaller parts?
+b5-028	5	GROW: Goal / situation	5	GOAL	What would reaching this goal mean to you?
+b5-029	5	GROW: Goal / situation	5	GOAL	What matters to you in this process?
+b5-030	5	GROW: Goal / situation	5	GOAL	What else do you want?
+b5-031	5	GROW: Goal / situation	5	GOAL	What would be the best possible outcome for you?
+b5-032	5	GROW: Goal / situation	5	GOAL	What would a successful result look like?
+b5-033	5	GROW: Goal / situation	5	GOAL	What would successful completion of the task look like?
+b5-034	5	GROW: Goal / situation	5	GOAL	What are you aiming for here?
+b5-035	5	GROW: Goal / situation	5	GOAL	By when do you need to achieve the result?
+b5-036	5	GROW: Reality	5	REALITY	What is happening at the moment?
+b5-037	5	GROW: Reality	5	REALITY	How important is this to you?
+b5-038	5	GROW: Reality	5	REALITY	On a scale from 1 to 10, with 10 as your ideal, where are you now?
+b5-039	5	GROW: Reality	5	REALITY	Where would you like to be?
+b5-040	5	GROW: Reality	6	REALITY	How do you feel about it?
+b5-041	5	GROW: Reality	6	REALITY	How does this affect you?
+b5-042	5	GROW: Reality	6	REALITY	What feels like a weight on your shoulders?
+b5-043	5	GROW: Reality	6	REALITY	How does this affect other areas of your life?
+b5-044	5	GROW: Reality	6	REALITY	What steps are you taking toward your goal?
+b5-045	5	GROW: Reality	6	REALITY	Is anything you are doing making it harder to reach your goal?
+b5-046	5	GROW: Reality	6	REALITY	How much or how many are involved in the aspect of the situation you are considering?
+b5-047	5	GROW: Reality	6	REALITY	Who else does this affect?
+b5-048	5	GROW: Reality	6	REALITY	What is the current situation?
+b5-049	5	GROW: Reality	6	REALITY	What specifically is happening right now?
+b5-050	5	GROW: Reality	6	REALITY	What concerns you most about this situation?
+b5-051	5	GROW: Reality	6	REALITY	What worries you most in this situation?
+b5-052	5	GROW: Reality	6	REALITY	Who else is involved or affected?
+b5-053	5	GROW: Reality	6	REALITY	How much control do you have over the outcome?
+b5-054	5	GROW: Reality	6	REALITY	What have you already tried?
+b5-055	5	GROW: Reality	6	REALITY	What has prevented you from doing more?
+b5-056	5	GROW: Reality	6	REALITY	What inner resistance do you notice when you take action?
+b5-057	5	GROW: Reality	6	REALITY	What resources do you already have: skills, time, enthusiasm, support, money, or something else?
+b5-058	5	GROW: Reality	6	REALITY	What additional resources do you need?
+b5-059	5	GROW: Reality	6	REALITY	What is the underlying issue?
+b5-060	5	GROW: Reality	6	REALITY	What are the main risks?
+b5-061	5	GROW: Reality	6	REALITY	What resources do you already have?
+b5-062	5	GROW: Reality	6	REALITY	What is your current plan?
+b5-063	5	GROW: Reality	6	REALITY	What actions can you count on yourself to take?
+b5-064	5	GROW: Reality	6	REALITY	What are you most confident about, and least confident about?
+b5-065	5	GROW: Choice	6	PERSPECTIVE	What could you do?
+b5-066	5	GROW: Choice	6	PERSPECTIVE	What ideas do you have?
+b5-067	5	GROW: Choice	6	PERSPECTIVE	What alternatives are available to you?
+b5-068	5	GROW: Choice	6	PERSPECTIVE	Is there anything else?
+b5-069	5	GROW: Choice	6	PERSPECTIVE	If there were something else, what might it be?
+b5-070	5	GROW: Choice	6	PERSPECTIVE	What has worked in the past?
+b5-071	5	GROW: Choice	6	PERSPECTIVE	What steps could you take?
+b5-072	5	GROW: Choice	7	PERSPECTIVE	Who could help you with this?
+b5-073	5	GROW: Choice	7	PERSPECTIVE	Where could you find information?
+b5-074	5	GROW: Choice	7	PERSPECTIVE	How could you do this?
+b5-075	5	GROW: Choice	7	PERSPECTIVE	What different approaches could you take to this problem?
+b5-076	5	GROW: Choice	7	PERSPECTIVE	What else could you try?
+b5-077	5	GROW: Choice	7	PERSPECTIVE	What could you do if you had more time, control over the situation, or money?
+b5-078	5	GROW: Choice	7	PERSPECTIVE	What would you do if you could start again with a clean slate?
+b5-079	5	GROW: Choice	7	PERSPECTIVE	Who do you know who handles this kind of thing well? What might they do?
+b5-080	5	GROW: Choice	7	PERSPECTIVE	Which possibilities could bring the best result?
+b5-081	5	GROW: Choice	7	PERSPECTIVE	Which solution appeals to you most?
+b5-082	5	GROW: Choice	7	PERSPECTIVE	What could you do to avoid or reduce the risks?
+b5-083	5	GROW: Choice	7	PERSPECTIVE	How could you improve the situation?
+b5-084	5	GROW: Choice	7	PERSPECTIVE	How would you like to approach this?
+b5-085	5	GROW: Choice	7	PERSPECTIVE	What do you think?
+b5-086	5	GROW: Choice	7	PERSPECTIVE	What else might work?
+b5-087	5	GROW: Choice	7	PERSPECTIVE	What ideas come to mind about what might work here?
+b5-088	5	GROW: Choice	7	PERSPECTIVE	What would help you remember?
+b5-089	5	GROW: Choice	7	PERSPECTIVE	What might a final solution look like?
+b5-090	5	GROW: Choice	7	PERSPECTIVE	What could you do to prevent this from happening again?
+b5-091	5	GROW: Choice	7	PERSPECTIVE	What can you choose from?
+b5-092	5	GROW: Choice	7	PERSPECTIVE	Would a suggestion from someone with experience in this area be useful to you?
+b5-093	5	GROW: Will	7	ACTION	What would you like to do?
+b5-094	5	GROW: Will	7	ACTION	How would you do it?
+b5-095	5	GROW: Will	7	ACTION	When would you do it?
+b5-096	5	GROW: Will	7	ACTION	Who would you speak with?
+b5-097	5	GROW: Will	7	ACTION	Where would you go?
+b5-098	5	GROW: Will	7	ACTION	Is there anything you need to arrange beforehand?
+b5-099	5	GROW: Will	7	ACTION	How committed do you feel to taking these actions?
+b5-100	5	GROW: Will	8	ACTION	What would it take for you to make a firm commitment to this?
+b5-101	5	GROW: Will	8	ACTION	Which option or options do you choose?
+b5-102	5	GROW: Will	8	ACTION	How far would this serve your goal?
+b5-103	5	GROW: Will	8	ACTION	How would you measure success?
+b5-104	5	GROW: Will	8	ACTION	What would your first step be?
+b5-105	5	GROW: Will	8	ACTION	When specifically would you begin?
+b5-106	5	GROW: Will	8	ACTION	What prevents you from starting sooner?
+b5-107	5	GROW: Will	8	ACTION	What might stop you from taking these actions?
+b5-108	5	GROW: Will	8	ACTION	Might anyone resist these actions? In what way?
+b5-109	5	GROW: Will	8	ACTION	What could you do to reduce those obstacles?
+b5-110	5	GROW: Will	8	ACTION	Who else needs to know about your plans?
+b5-111	5	GROW: Will	8	ACTION	What support do you need, and from whom?
+b5-112	5	GROW: Will	8	ACTION	What would you do to obtain that support?
+b5-113	5	GROW: Will	8	ACTION	How could someone supporting you help?
+b5-114	5	GROW: Will	8	ACTION	How could you support yourself?
+b5-115	5	GROW: Will	8	ACTION	On a scale from 1 to 10, how committed do you feel to taking these actions?
+b5-116	5	GROW: Will	8	ACTION	Who would carry out these actions?
+b5-117	5	GROW: Will	8	ACTION	What is your next step?
+b5-118	5	GROW: Will	8	ACTION	When would you take that first step?
+b5-119	5	GROW: Will	8	ACTION	By when would it be finished?
+b5-120	5	GROW: Will	8	ACTION	How firmly have you decided on this step?
+b5-121	5	GROW: Will	8	ACTION	What might prevent you from taking this step?
+b5-122	5	GROW: Will	8	ACTION	Who else could you ask for help?
+b5-123	5	GROW: Will	8	ACTION	What else do you need?
+b5-124	5	GROW: Will	8	ACTION	What specific measures would you take?
+b5-125	5	GROW: Will	8	ACTION	How would you know the plan had worked?
+b5-126	5	GROW: Will	8	ACTION	How would you make the outcome visible to someone you chose for accountability?
+b5-127	5	GROW: Will	8	ACTION	Which option or options seem best?
+b5-128	5	GROW: Will	8	ACTION	What would you change?
+b5-129	5	GROW: Will	8	ACTION	What would you do to help ensure that this happens?
+b7-001	7	Self-feedback: Goal	11	GOAL	What would you like to take away from this reflection?
+b7-002	7	Self-feedback: Goal	11	GOAL	What would be useful for you?
+b7-003	7	Self-feedback: Reality	11	REALITY	What did you like about what you did and how you did it?
+b7-004	7	Self-feedback: Reality	11	REALITY	What worked?
+b7-005	7	Self-feedback: Reality	11	REALITY	Which patterns of behavior were most effective?
+b7-006	7	Self-feedback: Reality	11	REALITY	What are you most proud of?
+b7-007	7	Self-feedback: Reality	11	REALITY	Which particular strengths did you bring to this?
+b7-008	7	Self-feedback: Reality	11	REALITY	What do you think contributed most to the success?
+b7-009	7	Self-feedback: Choice	11	PERSPECTIVE	If you could start again, what would you do differently?
+b7-010	7	Self-feedback: Choice	11	PERSPECTIVE	Which strengths would you like to use more in the future?
+b7-011	7	Self-feedback: Choice	11	PERSPECTIVE	Which behavior would you change next time?
+b7-012	7	Self-feedback: Choice	12	PERSPECTIVE	What would you do to meet or exceed the result you have in mind?
+b7-013	7	Self-feedback: Choice	12	PERSPECTIVE	How could you overcome this obstacle next time?
+b7-014	7	Self-feedback: Choice	12	PERSPECTIVE	What would help you achieve greater frequency, consistency, or quality in the future?
+b7-015	7	Self-feedback: Choice	12	PERSPECTIVE	When specifically in the past year would additional skills or experience have helped you?
+b7-016	7	Self-feedback: Choice	12	PERSPECTIVE	Which important skills or experiences are you missing for future opportunities?
+b7-017	7	Self-feedback: Choice	12	PERSPECTIVE	If you went off track, what happened, and what could help put things right?
+b7-018	7	Self-feedback: Choice	12	PERSPECTIVE	Would you like to consider a suggestion you could offer yourself?
+b7-019	7	Self-feedback: Will / lessons	12	INSIGHT	What lessons can you take from this?
+b7-020	7	Self-feedback: Will / lessons	12	INSIGHT	What have you learned that could help you going forward?
+b7-021	7	Self-feedback: Will / lessons	12	INSIGHT	What have you learned about yourself?
+b7-022	7	Self-feedback: Will / lessons	12	INSIGHT	What have you learned about other people?
+b7-023	7	Self-feedback: Will / lessons	12	INSIGHT	What do you now know about this goal or project that you did not know before?
+b7-024	7	Self-feedback: Will / lessons	12	INSIGHT	What else could you learn?
+b7-025	7	Self-feedback: Will / lessons	12	ACTION	What would you do next time?
+b7-026	7	Self-feedback: Will / lessons	12	ACTION	Where else could you apply these lessons?
+app-takeaway	0	App closing invitation	0	INSIGHT	What, if anything, would you like to take away from this reflection?
+app-action	0	App action invitation	0	ACTION	What, if anything, would you like to do next?
